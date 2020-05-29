@@ -3,4 +3,5 @@
 int main()
 {
 	printf("hello");//Commet
+	return 0;
 }
